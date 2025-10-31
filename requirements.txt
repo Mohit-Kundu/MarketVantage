@@ -1,0 +1,12 @@
+requests==2.32.3
+pytest==8.3.3
+pytest-mock==3.14.0
+python-dotenv==1.0.1
+streamlit==1.39.0
+sentence-transformers==2.7.0
+torch>=2.1
+faiss-cpu==1.8.0.post1
+groq==0.11.0
+google-generativeai>=0.8.0
+rank-bm25==0.2.2
+reportlab>=4.0.0
