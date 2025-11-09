@@ -225,14 +225,4 @@ python -m src.marketvantage.you_contents "https://example.com/article"
 - **Groq API**: https://console.groq.com/docs
 - **Gemini API**: https://ai.google.dev/docs
 
-## Notes
-
-- The application automatically manages FAISS indices in `data/faiss/`
-- Generated PDFs are saved to `output/reports/`
-- Reports are cached by topic and can be regenerated
-- The application uses parallel processing for faster report generation
-- Safety filters may affect content generation (more common with Gemini)
-
----
-
 **Built with**: Python, Streamlit, Sentence Transformers, FAISS, Groq, You.com API
