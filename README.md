@@ -3,6 +3,7 @@
 **Hackathon Submission**: This project is a submission for the You.com Hackathon.
 
 A comprehensive tool for generating technology landscape reports using AI-powered research, retrieval-augmented generation (RAG), and automated PDF creation. The application uses You.com Search API for web research and Groq/Gemini APIs for content generation.
+![Video Project](https://github.com/user-attachments/assets/66f87259-c6d5-4282-9af7-5ea4761e9be2)
 
 ## Problem Statement
 
